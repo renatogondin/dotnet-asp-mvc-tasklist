@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/renato/.dotnet/store/|arch|/|tfm|",
+      "/home/renato/.nuget/packages"
+    ]
+  }
+}
