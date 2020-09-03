@@ -1,5 +1,6 @@
-<h1>Simple mvc app. Checklist style</h1>
-<p>This is a very simple project using mvc and dotnet framework.</br>
-   Just to practice a little bit.
+<h1>Dotnet Core To-DO List</h1>
+<p>App project using MVC and Dotnet framework.</br>
+   Front was made with Razor, DB was MySQL. </br>
+   You can create tasks and check them if completed.
 </p>
 <img src="https://github.com/renatogondin/dotnet-asp-mvc-tasklist/blob/master/tasks.gif">
